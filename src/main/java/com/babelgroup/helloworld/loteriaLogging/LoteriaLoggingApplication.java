@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LoteriaLoggingApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(LoteriaLoggingApplication.class, args);
+
 	}
 
 }
